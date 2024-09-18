@@ -41,6 +41,7 @@ https://www.figma.com/file/QKiz47a00tMsrPBIHsznR6/Shui---React?type=design&node-
 
 **För Godkänt:**
 * Uppfyller alla funktionella och tekniska krav
+* Gränssnittet MÅSTE vara enhetligt, och följa en tydlig layout
 
 **För Väl Godkänt:**
 * Det går att sortera alla meddelanden på datum
