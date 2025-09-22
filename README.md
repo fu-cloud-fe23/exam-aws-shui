@@ -9,8 +9,8 @@ Du ska bygga både en frontend i React (annat ramverk är godkänt med) och ett 
 
 **Krav:**
 * Det går att posta ett nytt meddelande.
-* Det går att ändra ett valfritt postat meddelande och det ska inte gå att kunna ändra ett meddelande som inte finns.
-* Det går att ta bort ett existerande meddelande
+* Det går att ändra ett valfritt meddelande.
+* Det går att ta bort ett valfritt meddelande.
 * Det går att se alla meddelanden.
 
 ## Tekniska krav
@@ -46,7 +46,8 @@ https://www.figma.com/file/QKiz47a00tMsrPBIHsznR6/Shui---React?type=design&node-
 **För Väl Godkänt:**
 * Det går att sortera alla meddelanden på datum
 * Det går att hämta alla meddelanden en specifik användare
+* Lägg till inloggning/registrering där det endast går att redigera/ta bort sina egna meddelanden som inloggad användare.
 
 ## Inlämning
 
-Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast 27/9 23:59. Glöm inte att skicka med URL:en till din webbapplikation som en kommentar till inlämningen i Azomo, alt. i ditt repo.
+Inlämning sker på Azomo med en länk till ditt Github repo med din kod senast 27/9 23:59. Glöm inte att lägga in länken till din applikation i ditt Githubrepo.
